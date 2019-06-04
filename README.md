@@ -38,7 +38,8 @@ First, import necessary modules as follows:
 ### **Yearly Chart (aggregated by year) Output:**
 ![](images/spotfireg.png)
 
-link to TIBCO Spotfire: https://spotfire-next.cloud.tibco.com/spotfire/wp/ViewAnalysis.aspx?file=/Users/uzsacx6jwsgocmgxxjkyskttwqfbdg32/Public/Schulich%20Achievements&configurationBlock=SetPage%28pageIndex%3D0%29%3B&options=7-1,8-1,9-1,10-1,11-1,12-0,13-1,14-0,1-0,2-1,3-1,4-1,5-0,6-0,15-1,17-1
+**Link to TIBCO Spotfire:**\
+https://spotfire-next.cloud.tibco.com/spotfire/wp/ViewAnalysis.aspx?file=/Users/uzsacx6jwsgocmgxxjkyskttwqfbdg32/Public/Schulich%20Achievements&configurationBlock=SetPage%28pageIndex%3D0%29%3B&options=7-1,8-1,9-1,10-1,11-1,12-0,13-1,14-0,1-0,2-1,3-1,4-1,5-0,6-0,15-1,17-1
 
       
       

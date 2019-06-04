@@ -1,4 +1,4 @@
-# Data-Visualization
+# Grographical & Yearly Charts
 First, import necessary modules as follows:
 
 ![](images/modules.png)

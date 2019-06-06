@@ -4,8 +4,6 @@ import pandas as pd
 import matplotlib.patches as mpatches
 from mpl_toolkits.basemap import Basemap
 import os
-os.chdir('C:/Users/yoons/Desktop/Schulich Tech. Interview')
-
 
 #Geographical Chart
 df = pd.read_excel('Data.xlsx')
